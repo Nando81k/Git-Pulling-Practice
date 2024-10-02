@@ -1,4 +1,4 @@
-# Git-Pulling-Practice
+Irma lol
 
 ## Fernando & Irma
 Practicing pulling from git repo
@@ -14,4 +14,3 @@ git status
 The above command lets you check the status of your branch,
 it lets you know if anything  is  staged  and ready to be commited to remote  repository
 
-Something
